@@ -1,0 +1,2 @@
+# Add your own restrictions here. Documentation on syntax:
+# https://github.com/policeman-tools/forbidden-apis/wiki/SignaturesSyntax
